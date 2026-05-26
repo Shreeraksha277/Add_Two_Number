@@ -1,7 +1,7 @@
 class solution{
   public static int twosum(int[] nums, int target)
   { 
-    HashMap<Integer,Integer> map = new HashMap<>();
+     HashMap<Integer,Integer> map = new HashMap<>();
     for(int i=0i<nums.length;i++)
       {
          int complement= target -nums[i];
