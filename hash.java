@@ -12,5 +12,5 @@ class solution{
         map.put(nums[i],i);
       }
     return new int[] {};
-  }
+   }
 }
